@@ -1,4 +1,4 @@
-# File-sorter
+
 File Sorter
 =====================
 
